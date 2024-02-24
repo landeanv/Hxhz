@@ -1,4 +1,4 @@
 package main(){
   import = "fmt"
-  println("awoakwoakok")
+  fmt.println("awoakwoakok")
   }
